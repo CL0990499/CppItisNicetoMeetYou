@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\CppItisNicetoMeetYou\\It is Nice to Meet You\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D07C1127-F34A-42D5-8989-3469F83CF6AE}|It is Nice to Meet You.vcxproj|C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\CppItisNicetoMeetYou\\It is Nice to Meet You\\It is Nice to Meet You.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D07C1127-F34A-42D5-8989-3469F83CF6AE}|It is Nice to Meet You.vcxproj|solutionrelative:It is Nice to Meet You.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "It is Nice to Meet You.cpp",
+              "DocumentMoniker": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\CppItisNicetoMeetYou\\It is Nice to Meet You\\It is Nice to Meet You.cpp",
+              "RelativeDocumentMoniker": "It is Nice to Meet You.cpp",
+              "ToolTip": "C:\\Users\\ctlaw\\OneDrive - Ozarks Technical Community College\\CSC-140\\CppItisNicetoMeetYou\\It is Nice to Meet You\\It is Nice to Meet You.cpp",
+              "RelativeToolTip": "It is Nice to Meet You.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T17:24:34.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
